@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 30px;
+    padding: 10px;
+    border: 2px solid black
+}
+
+p  {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    color: red
+}
